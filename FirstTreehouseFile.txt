@@ -1,0 +1,5 @@
+This is the very first text file that I am creating for a new repo that I have on GitHub for the purposes of learning GitHub on www.teamtreehouse.com. I am working with this in 
+conjunction to taking the Git course - also through Treehouse. I needed some kind of file to upload when I initialize this through Git and push it up to the repo which already exists 
+on GitHub.
+
+This will be file #1.
